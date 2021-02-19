@@ -2,8 +2,6 @@
 
 A set of high-level APIs over PointyCastle for two-way cryptography.
 
-> Looking for password hashing? Please, visit [password](https://github.com/leocavalcante/password-dart).
-
 ### Secure random
 
 You can generate cryptographically secure random keys and IVs for you project.
