@@ -1,0 +1,20 @@
+name: encrypt
+version: 4.1.0
+description: A set of high-level APIs over PointyCastle for two-way cryptography.
+
+executables:
+  secure-random:
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  args: ^1.6.0
+  asn1lib: ^0.8.1
+  clock: ^1.0.1
+  collection: ^1.14.13
+  crypto: ^2.1.5
+  pointycastle: ^2.0.0
+
+dev_dependencies:
+  test: ^1.15.4
